@@ -1,0 +1,13 @@
+email-client.md
+design template.webp
+design.webp
+design.jpg
+fiche google.png
+PROMPT_SITE_THE_YARD.md
+PROMPT_UI_THE_YARD.md
+PROMPT_STRUCTURE_THE_YARD.md
+PLAN_IMPLEMENTATION.md
+*.psd
+.DS_Store
+node_modules/
+.env
